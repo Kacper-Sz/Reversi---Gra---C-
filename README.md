@@ -13,12 +13,13 @@ Reversi to strategiczna gra planszowa dla dwóch graczy. Celem gry jest zajęcie
 
 ## Przykładowe zrzuty ekranu
 1. **Menu główne**:
-   ![Menu główne](./zdj/menu.png)
-2. **Plansza gry**:
-   ![Plansza gry](./zdj/gra1.png)
+   ![Menu główne]
+   (./zdj/menu.png)
 3. **Plansza gry**:
+   ![Plansza gry](./zdj/gra1.png)
+4. **Plansza gry**:
    ![Plansza gry](./zdj/gra2.png)
-4. **Koniec gry**:
+5. **Koniec gry**:
    ![Koniec gry](./zdj/koniec.png)
 
 ## Możliwe zmiany w kodzie w przyszłości
